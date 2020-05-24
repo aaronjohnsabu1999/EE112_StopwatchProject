@@ -1,5 +1,4 @@
-# EE112_StopwatchProject
-This repository contains some files we used in the course project we performed for EE112 - Introduction to Electronics as part of which we built an MM:SS digital stopwatch.
-We had performed this in Spring 2018.
-Files are being uploaded progressively.
-The .sqproj files are supposed to be opened using SEQUEL software developed at the Electrical Engineering department of the Indian Institute of Technology (IIT) Bombay, which can be obtained from https://www.ee.iitb.ac.in/~sequel/
+# The Tik-Tik-Tok Stopwatch
+
+This repository contains some files used in the development of an MM:SS digital stopwatch for the course project of EE112 (Introduction to Electronics), Spring 2018.  
+The `.sqproj` files are based on [SEQUEL](https://www.ee.iitb.ac.in/~sequel/), a software developed by Prof MB Patil at the Department of Electrical Engineering, Indian Institute of Technology (IIT) Bombay.
